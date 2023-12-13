@@ -47,7 +47,7 @@
 
 <br>
 
-<p>HP is one of the well-known brands printers that offers amazing printing quality at very reasonable prices. These printers are capable of creating outstanding prints for personal as well as professional purpose. All you need to visit: <strong><a href="https://123hpcomsetup-p.github.io/">123.hp.com/setup</a></strong>to download your hp printer model and install it on your operating device for enhanced productivity.</p>
+<p>HP is one of the well-known brands printers that offers amazing printing quality at very reasonable prices. These printers are capable of creating outstanding prints for personal as well as professional purpose. All you need to visit: <strong><a href="https://123hpcomsetup-j.github.io/index.html/">123.hp.com/setup</a></strong>to download your hp printer model and install it on your operating device for enhanced productivity.</p>
 <br>
 <h2>Features of HP Printer</h2>
 
@@ -68,7 +68,7 @@
 <h2>Download and Install HP Printer Driver- 123.hp.com</h2>
 
 <ol>
-<li>Visit <a href="https://123hpcomsetup-p.github.io/">123.hp.com/setup</a>.</li>
+<li>Visit <a href="https://123hpcomsetup-j.github.io/index.html/">123.hp.com/setup</a>.</li>
 <li>Enter your HP printer model or let it detect automatically.</li>
 <li>Follow the on-screen instructions to locate and download the appropriate driver for your operating system.</li>
 <li>Run the installation file.</li>
@@ -96,7 +96,7 @@
 <li>In <strong>"HP Printer Driver,"</strong> click <strong>"Remove."</strong></li>
 <li>Remove all other HP printer software instances.</li>
 <li>Restart your PC.</li>
-<li>Download and reinstall HP printer software from <a href="https://123hpcomsetup-p.github.io/">123.hp.com/setup</a>.</li>
+<li>Download and reinstall HP printer software from <a href="https://123hpcomsetup-j.github.io/index.html/">123.hp.com/setup</a>.</li>
 </ol>
 
 
